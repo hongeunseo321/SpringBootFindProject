@@ -5,7 +5,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.sist.web.mapper")
 public class SpringBootFindProjectApplication {
 
 	public static void main(String[] args) {
